@@ -1,0 +1,6 @@
+{
+  "name": "Travel Booking Website",
+  "description": "A modern, fully responsive travel and tourism booking web application frontend styled with Tailwind CSS, including interactive property search, booking, checkout, profiles, and administration dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
